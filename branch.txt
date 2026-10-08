@@ -1,6 +1,8 @@
 Feature branches.
+
 git checkout main
-git oull origin maingit checkout -b feature/branch-practice
+git pull origin main
+git checkout -b feature/branch-practice
 git add .
 git commit -m "message"
 git push -u origin feature/branch-practice
