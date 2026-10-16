@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(198, 239, 198);
+}
+
+h1{
+    color: rgb(211, 12, 12); 
+    text-align: center;
+}
+
+h2{
+    color: rgb(12, 12, 211);
+}
+
+h3{
+    color: rgb(243, 151, 14);
+}
+
+p{
+    background-color: rgb(226, 186, 219);
+}
+
+footer p {
+  background-color: rgb(198, 239, 198); 
+   font-size: 0.9rem;
+}
